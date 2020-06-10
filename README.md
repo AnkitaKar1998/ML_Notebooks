@@ -1,0 +1,1 @@
+This repository consists of all the notebooks in which I have practiced various ML algorithms on different datasets.
